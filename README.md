@@ -1,2 +1,2 @@
 # LanguageRecognition
-Simple project made to experiment AI classification wit sickit learn
+Simple project made to experiment AI classification with sickit learn
