@@ -1,7 +1,7 @@
 import csv
 import deepl
 
-AUTH_KEY = "ecc45dfe-db67-32a6-343e-3d71594712c6:fx"
+AUTH_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 FR = "FR"
 TRAD_TARGET = [
     "EN-GB",
